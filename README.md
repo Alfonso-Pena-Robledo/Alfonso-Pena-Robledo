@@ -48,4 +48,4 @@
 
 ## 📬 Contacto & Enlaces
 * 💼 **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario) 
-* 📧 **Email:** [Tu Correo de Contacto](alfonso.job14@gmail.com)
+* 📧 **Email:** alfonso.job14@gmail.com
