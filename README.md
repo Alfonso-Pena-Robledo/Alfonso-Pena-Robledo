@@ -40,9 +40,9 @@
 | Área | Tecnologías / Herramientas |
 | :--- | :--- |
 | **Lenguajes:** | Python, SQL, Java |
-| **Análisis & Data Science:** | pandas, NumPy, Polars, scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn |
-| **Big Data & Cloud:** | PySpark, PostgreSQL, SQLite, Azure Data Lake, Databricks, GCP |
-| **BI & Visualización:** | Power BI (DAX), Jupyter Notebooks |
+| **Análisis & Data Science:** | Pandas, NumPy, Polars, scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn, PySpark |
+| **Big Data & Cloud:** | PySpark, PostgreSQL, SQLite, Azure Data Lake, Databricks, GCP, GA4 |
+| **BI & Visualización:** | Power BI (DAX), Tableau |
 
 ---
 
