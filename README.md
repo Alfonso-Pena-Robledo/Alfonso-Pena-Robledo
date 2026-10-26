@@ -3,9 +3,9 @@
 **Data Analyst** con formación avanzada en Matemáticas y Data Science. 
 
 ## 📚 Estudios
-> *Grado en Matemáticas, Universidad Complutense de Madrid (2019-2023)*
-> *Máster en Matemáticas Avanzadas, Universidad Complutense de Madrid (2023-2024)*
-> *Máster Data Science, Big Data & Business Analytics, Universidad Complutense de Madrid (2025-2026)*
+* *Grado en Matemáticas, Universidad Complutense de Madrid (2019-2023)*
+* *Máster en Matemáticas Avanzadas, Universidad Complutense de Madrid (2023-2024)*
+* *Máster Data Science, Big Data & Business Analytics, Universidad Complutense de Madrid (2025-2026)*
 ---
 
 ## 🚀 Proyectos Destacados
