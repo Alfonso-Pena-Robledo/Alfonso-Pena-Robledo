@@ -11,7 +11,7 @@
 
 ## 🚀 Proyectos Destacados
 
-### ⚡ [Predicción de Demanda Energética (PJM)](https://github.com/Alfonso-Pena-Robledo/Portfolio-Data-Analysis)
+### ⚡ [Predicción de Demanda Energética (PJM)](https://github.com/Alfonso-Pena-Robledo/Prediccion-de-Demanda-Energetica)
 > *Pipeline end-to-end de análisis, ingeniería de características y forecasting de consumo eléctrico.*
 * **Stack:** PySpark, SQL, Python, TensorFlow/Keras, Power BI.
 * **Aspectos clave:** ETL distribuido con PySpark, consultas estructuradas en SQL, entrenamiento de modelos de Machine Learning (Random Forest) y redes neuronales (LSTM), e informe ejecutivo con métricas de rendimiento (RMSE, MAE).
